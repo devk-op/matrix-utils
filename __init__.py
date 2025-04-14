@@ -1,1 +1,31 @@
-from .matrixx import *
+from .core import (
+    Matrix,
+    generate_identity,
+    generate_tridiagonal,
+    generate_triband,
+    generate_diagonal,
+    generate_upper_triangular,
+    generate_lower_triangular,
+    generate_symmetric,
+    generate_toeplitz,
+    generate_hankel,
+    generate_circulant,
+    is_symmetric,
+    is_toeplitz,
+)
+
+__all__ = [
+    "Matrix",
+    "generate_identity",
+    "generate_tridiagonal",
+    "generate_triband",
+    "generate_diagonal",
+    "generate_upper_triangular",
+    "generate_lower_triangular",
+    "generate_symmetric",
+    "generate_toeplitz",
+    "generate_hankel",
+    "generate_circulant",
+    "is_symmetric",
+    "is_toeplitz",
+]
