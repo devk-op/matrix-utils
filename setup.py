@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/devk-op/matrix-utils",
     license="MIT",
-    packages=find_packages(),
+    packages=find_packages(include=["matrixx", "matrixx.*"]),
     include_package_data=True,
     install_requires=["numpy"],
     classifiers=[
