@@ -35,7 +35,7 @@ pip install matrixx
 ## 🚀 Usage
 
 ```python
-from matrix_utils import Matrix, generate_tridiagonal, is_toeplitz
+from matrixx import Matrix, generate_tridiagonal, is_toeplitz
 
 m = generate_tridiagonal(4)
 print(m)
