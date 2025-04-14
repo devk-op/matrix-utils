@@ -1,5 +1,6 @@
 # Matrix Utils
 
+[![Test Status](https://github.com/devk-op/matrix-utils/actions/workflows/tests.yml/badge.svg)](https://github.com/devk-op/matrix-utils/actions)
 [![PyPI](https://img.shields.io/pypi/v/matrix-utils)](https://pypi.org/project/matrix-utils)
 [![Python](https://img.shields.io/pypi/pyversions/matrix-utils)](https://pypi.org/project/matrix-utils)
 [![License](https://img.shields.io/pypi/l/matrix-utils)](LICENSE)
