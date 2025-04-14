@@ -1,5 +1,5 @@
 import pytest
-from matrixx.core import (
+from matrixx import (
     Matrix,
     generate_identity,
     generate_tridiagonal,
