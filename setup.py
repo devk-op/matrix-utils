@@ -7,7 +7,7 @@ long_description = (this_dir / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="matrixx",
-    version="0.1.1",
+    version="0.1.2",
     author="Kranthi",
     author_email="kdevprofile@gmail.com",
     description="Lightweight matrix utility library",
