@@ -1,9 +1,9 @@
 # Matrix Utils
 
 [![Test Status](https://github.com/devk-op/matrix-utils/actions/workflows/tests.yml/badge.svg)](https://github.com/devk-op/matrix-utils/actions)
-[![PyPI](https://img.shields.io/pypi/v/matrix-utils)](https://pypi.org/project/matrix-utils)
-[![Python](https://img.shields.io/pypi/pyversions/matrix-utils)](https://pypi.org/project/matrix-utils)
-[![License](https://img.shields.io/pypi/l/matrix-utils)](LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/matrixx)](https://pypi.org/project/matrixx)
+[![Python](https://img.shields.io/pypi/pyversions/matrixx)](https://pypi.org/project/matrixx)
+[![License](https://img.shields.io/pypi/l/matrixx)](https://pypi.org/project/matrixx)
 
 **Matrix Utils** is a lightweight Python library for creating and working with structured matrices.  
 It supports identity, tri-diagonal, tri-band, diagonal, symmetric, Toeplitz, Hankel, and circulant matrices — all in a clean object-oriented style.
